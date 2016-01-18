@@ -1,6 +1,6 @@
 # TestGitProj-Jan2016
 <body>
-	test
-	test
-	WOW
-</body>
+	<li>Test</li>
+	<label>WOW</label>
+	<li>aha</li>
+	</body>
